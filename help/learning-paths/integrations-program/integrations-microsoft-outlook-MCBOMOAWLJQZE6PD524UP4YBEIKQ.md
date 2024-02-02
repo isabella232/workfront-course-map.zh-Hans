@@ -1,21 +1,21 @@
 ---
-title: 适用于Microsoft的Workfront Outlook
-description: 将workfront one课程映射到experience league课程
+title: Workfront for Microsoft Outlook
+description: 将 Workfront One 课程映射到 Experience League 课程
 exl-id: 1342bcce-f24c-4ad3-8568-9023869aa6b6
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 适用于Microsoft的Workfront Outlook
+# Workfront for Microsoft Outlook
 
-此 *适用于Microsoft的Workfront Outlook* Workfont One学习路径现在已映射到新迁移和优化的Experience LeagueWorkfront教程。 新教程将捕获所有相同的信息。 导航到新Experience League [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)，并查找 *集成* Tutorials页面左侧导航中的列表。
+*Workfront for Microsoft Outlook* Workfront One 学习路径现已映射到新迁移和优化的 Experience League Workfront 教程。新教程包含了所有相同的信息。导航到新 Experience League [Workfront 教程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)，然后在“教程”页面的左侧导航中查找&#x200B;*集成*&#x200B;列表。
 
 ## 其他资源
 
-* [Workfront课程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 课程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文档](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社区](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

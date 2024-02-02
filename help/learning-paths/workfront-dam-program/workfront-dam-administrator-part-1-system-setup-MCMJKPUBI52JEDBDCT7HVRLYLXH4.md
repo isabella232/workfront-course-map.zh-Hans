@@ -1,31 +1,31 @@
 ---
 title: 系统设置
-description: 将workfront one课程映射到experience league课程
+description: 将 Workfront One 课程映射到 Experience League 课程
 exl-id: ffd0f51c-c7a4-4fb3-bfa9-b3c661362a69
 source-git-commit: 243f842377e58071dd10f285101e68a1adf6893f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 系统设置
 
-以下五个Workfont One学习路径，
+以下五个 Workfront One 学习路径，
 
 * 系统设置
-* 元数据和关键字
-* Brand Connect自定义
-* Workfront DAM用户：参与者
-* Brand Connect用户
+* 元数据和关键词
+* Brand Connect 定制
+* Workfront DAM 用户：投稿人
+* Brand Connect 用户
 
-已合并到单个Experience League课程中， [WORKFRONT DAM](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}.
+已合并为单一 Experience League 课程 [Workfront DAM](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=zh-Hans){target="_blank"}。
 
-新的Experience League教程与以前的学习路线图涵盖相同的学习目标，并在可能的情况下进行了优化以提供全面的学习体验。  浏览Workfront课程、文档、教程和社区在Experience League上的完整库。
+新 Experience League 教程涵盖了与之前的学习路径相同的学习目标，并且已尽可能进行优化以提供全面的学习体验。浏览 Experience League 上完整的 Workfront 课程、文档、教程和社区库。
 
 ## 其他资源
 
-* [Workfront课程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 课程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文档](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社区](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

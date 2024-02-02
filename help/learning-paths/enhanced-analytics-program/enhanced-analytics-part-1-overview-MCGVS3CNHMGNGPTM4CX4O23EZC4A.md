@@ -1,24 +1,24 @@
 ---
-title: 增强的Analytics第1部分 — 概述
-description: 将workfront one课程映射到experience league课程
+title: 增强分析，第 1 部分 - 概述
+description: 将 Workfront One 课程映射到 Experience League 课程
 exl-id: 86a172f3-b5a9-4211-b861-cd5159ba9bfa
 source-git-commit: cc8908472e50ab95deb613720fdbdc4dba9c02cb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 增强的Analytics第1部分 — 概述
+# 增强分析，第 1 部分 - 概述
 
 
-此 *增强的Analytics第1部分 — 概述* Workfont One学习路径已迁移到 [Analytics第1部分 — 概述](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.analytics){target="_blank"} Experience League时
+*增强分析，第 1 部分 - 概述* Workfront One 学习路径已迁移到 Experience League 上的[Analytics，第 1 部分 - 概述](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.analytics){target="_blank"}
 
-新的Experience League课程包含与前一学习路径相同的学习目标，并在可能的情况下进行了优化以提供全面的学习体验。  浏览Workfront课程、文档、教程和社区在Experience League上的完整库。
+新 Experience League 课程涵盖了与之前的学习路径相同的学习目标，并且已尽可能进行优化以提供全面的学习体验。浏览 Experience League 上完整的 Workfront 课程、文档、教程和社区库。
 
 ## 其他资源
 
-* [Workfront课程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 课程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文档](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社区](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

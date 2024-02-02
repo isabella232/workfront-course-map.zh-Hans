@@ -1,30 +1,30 @@
 ---
 title: 发送和共享报告
-description: 将workfront one课程映射到experience league课程
+description: 将 Workfront One 课程映射到 Experience League 课程
 exl-id: 6c61d7c7-ad84-4c30-b4c7-a74e0e3ff0ad
 source-git-commit: 904ab74ed838466dc5b0bb25da451632e270c882
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 # 发送和共享报告
 
-以下四个Workfront One学习路径，
+以下四个 Workfront One 学习路径，
 
-* 创建基本功能板
-* 创建基本自定义报表
-* 报表设置
+* 创建基本仪表板
+* 创建基本自定义报告
+* 报告设置
 * 发送和共享报告
 
-已合并到单个Experience League课程中， [创建自定义报告和仪表板](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting){target="_blank"}.
+已合并为单一 Experience League 课程[创建自定义报告和仪表板](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting){target="_blank"}。
 
-新的Experience League课程包含与先前学习路径相同的学习目标，并在可能的情况下进行了优化以提供全面的学习体验。  浏览Workfront课程、文档、教程和社区在Experience League上的完整库。
+新 Experience League 课程涵盖了与之前的学习路径相同的学习目标，并且已尽可能进行优化以提供全面的学习体验。浏览 Experience League 上完整的 Workfront 课程、文档、教程和社区库。
 
 ## 其他资源
 
-* [Workfront课程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront文档](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront 课程](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
+* [Workfront 文档](https://experienceleague.adobe.com/docs/workfront.html)
+* [Workfront 教程](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
+* [Workfront 社区](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
